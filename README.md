@@ -1,4 +1,4 @@
-<h1>Eae! Eu sou Ezequiel Rojas// Buenas... soy Ezequiel Rojas</h1>
+<h1>Hola! Soy Ezequiel Rojas.</h1>
 
 
 
